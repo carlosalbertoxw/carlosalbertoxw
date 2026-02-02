@@ -12,7 +12,3 @@
 - 📄 Know about my experiences: [https://www.linkedin.com/in/carlosalbertoxw](https://www.linkedin.com/in/carlosalbertoxw)
 
 - ⚡ Fun fact: **I am an introverted person. I like to learn new things and constantly improve to become a great software engineer.**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosalbertoxw&show_icons=true&locale=en&layout=compact" alt="carlosalbertoxw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosalbertoxw&show_icons=true&locale=en" alt="carlosalbertoxw" /></p>
